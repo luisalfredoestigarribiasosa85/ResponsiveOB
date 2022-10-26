@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+.escenario {
+    margin: 10px 0px;
+    border: 1px solid rgb(129, 123, 123);
+    padding: 10px;
+}
+.escenario-1 {
+    width: 100%;
+}
+.escenario-2 {
+    width: 50%;
+}
+.px {
+    background-color: rgb(8, 82, 8);
+    width: 200px;
+}
+.porciento {
+    background-color: #c07979;
+    width: 50%;
+}
+.vw {
+    background-color: #d8d839;
+    width: 50vw;
+}
